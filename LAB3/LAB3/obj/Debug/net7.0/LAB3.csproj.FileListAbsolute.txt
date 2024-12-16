@@ -1,0 +1,15 @@
+/Users/danilmakovskiy/Projects/LAB3/LAB3/bin/Debug/net7.0/LAB3
+/Users/danilmakovskiy/Projects/LAB3/LAB3/bin/Debug/net7.0/LAB3.deps.json
+/Users/danilmakovskiy/Projects/LAB3/LAB3/bin/Debug/net7.0/LAB3.runtimeconfig.json
+/Users/danilmakovskiy/Projects/LAB3/LAB3/bin/Debug/net7.0/LAB3.dll
+/Users/danilmakovskiy/Projects/LAB3/LAB3/bin/Debug/net7.0/LAB3.pdb
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.dll
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/refint/LAB3.dll
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.pdb
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/LAB3.genruntimeconfig.cache
+/Users/danilmakovskiy/Projects/LAB3/LAB3/obj/Debug/net7.0/ref/LAB3.dll
